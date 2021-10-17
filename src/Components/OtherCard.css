@@ -1,0 +1,23 @@
+
+.other-card-container{
+    height: 240px;
+    width: 175px;
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 5px;
+    transition: all .3s ease;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p, i{
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: 800;
+}
